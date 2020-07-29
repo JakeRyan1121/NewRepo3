@@ -1,2 +1,2 @@
-# NewRepo3
+# Polygons
 C# Class Project
